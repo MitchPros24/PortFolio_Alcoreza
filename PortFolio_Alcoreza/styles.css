@@ -18,7 +18,7 @@ body {
     background-repeat: no-repeat;
 }
 
-/* Content Container */
+
 .content-container {
     background: rgba(255, 255, 255, 0.9);
     padding: 20px;
@@ -26,7 +26,7 @@ body {
     backdrop-filter: blur(1px);
 }
 
-/* Navbar */
+
 .navbar a {
     text-decoration: none;
     color: #555;
@@ -51,7 +51,7 @@ body {
 }
 
 
-/* Hero Section */
+
 .hero {
     position: relative;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('bg.webp');
@@ -130,7 +130,7 @@ body {
     object-fit: cover;
 }
 
-/* About, Skills, and Contact Sections */
+
 section {
     padding: 2em 1em;
     max-width: 800px;
@@ -164,7 +164,7 @@ section h2 {
     font-family: 'Comic Sans MS', cursive;
 }
 
-/* Projects Section */
+
 .projects .project-gallery {
     display: flex;
     justify-content: center;
@@ -196,7 +196,7 @@ section h2 {
     margin-bottom: 1em;
 }
 
-/* Contact Section */
+
 .contact ul {
     list-style: none;
     margin-top: 1em;
@@ -216,7 +216,7 @@ section h2 {
     color: #f4a261;
 }
 
-/* Footer */
+
 .footer {
     text-align: center;
     padding: 1em 0;
@@ -233,7 +233,7 @@ section h2 {
 }
 
 
-/* Responsive Design */
+
 @media screen and (max-width: 768px) {
     .hero-content {
         flex-direction: column;
